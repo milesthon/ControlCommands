@@ -4,3 +4,9 @@
 
 ***
 Control panel commands / Команды Панели управления
+
+<div align="center">
+  
+***
+by MilesthoN
+
